@@ -92,7 +92,7 @@
     "swagger-tools": "^0.10.3",
     "temp": "^0.8.1",
     "transliteration": "^1.1.6",
-    "url-join": "1.1.0",
+    "url-join": "4.0.1",
     "utf-8-validate": "^1.2.1",
     "uuid": "^3.0.0",
     "ws": "^3.0.0",
